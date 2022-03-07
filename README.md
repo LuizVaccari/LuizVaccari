@@ -1,3 +1,3 @@
 ### Hi there 👋, I'm Luiz!
 
-🌱 I’m currently studying at Trybe
+🌱 I’m a Software Engineer currently working at RadarFit
